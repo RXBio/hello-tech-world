@@ -1,2 +1,8 @@
 # hello-tech-world
-Hello Tech World Repo
+
+Hallo, Ich möchte mich vorstellen.
+
+Main name ist Herman Gitos.
+Ich komme aus Solo, Indonesien.
+
+Danke schön.
