@@ -1,2 +1,2 @@
-# hello-tech-world
-Hello Tech World Repo
+# hello-world
+Hello World Repo
